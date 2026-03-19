@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Wiktoria 👋
 
-<!--
-**callioste/callioste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3rd-year Applied Computer Science student at Jagiellonian University in Kraków.
 
-Here are some ideas to get you started:
+- Currently learning: `Fortran 90/95`
+- Currently taking courses: `Google Cloud Cybersecurity` | `Google Associate Cloud Engineer`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech & Tools
+
+- Languages: `Python` | `C++` | `Java`
+- Basics of: `C#` | `C`
+- Tools: `Git` | `GitHub` | `LaTeX` | `Markdown` | `Linux`
+- Web & Backend: `Node.js` | `HTML` | `CSS` | `JavaScript`
+- Interests: `Cybersecurity` | `Data Analytics`
+
+### 🗨️ About Me
+
+- 🐈 Cat owner and lover
+- 🎭 Theatre and music enthusiast
+
+---
+📫 Reach me at: wiktoria.pawelkiewicz@gmail.com
