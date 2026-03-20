@@ -9,6 +9,7 @@ I'm a 3rd-year Applied Computer Science student at Jagiellonian University in Kr
 
 - Languages: `Python` | `C++` | `Java`
 - Basics of: `C#` | `C`
+- Databases: `SQLite` | `MySQL`
 - Tools: `Git` | `GitHub` | `LaTeX` | `Markdown` | `Linux`
 - Web & Backend: `Node.js` | `HTML` | `CSS` | `JavaScript` | `WordPress`
 - Interests: `Cybersecurity` | `Data Analytics`
