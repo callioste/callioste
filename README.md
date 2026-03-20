@@ -12,7 +12,7 @@ I'm a 3rd-year Applied Computer Science student at Jagiellonian University in Kr
 - Databases: `SQLite` | `MySQL`
 - Tools: `Git` | `GitHub` | `Linux`
 - Web & Backend: `Node.js` | `HTML` | `CSS` | `JavaScript` | `WordPress`
-- Interests: `Cybersecurity` | `Data Analytics`
+- Interests: `Cybersecurity` | `Data Analytics` | `Software & Web Development`
 
 ### 🗨️ About Me
 
