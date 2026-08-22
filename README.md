@@ -1,18 +1,15 @@
 ## Hi there, I'm Wiktoria 👋
 
-I'm a 3rd-year Applied Computer Science student at Jagiellonian University in Kraków.
-
-- Currently learning: `Fortran 90/95`
-- Currently taking courses: `Google Cloud Cybersecurity` | `Google Associate Cloud Engineer`
+I'm an Applied Computer Science graduate and incoming Master's student at Jagiellonian University in Kraków.
 
 ### 🛠️ Tech & Tools
 
-- Languages: `Python` | `C++` | `Java`
-- Basics of: `C#` | `C`
+- Programming: `Python` | `C++` | `Java` | `SQL`
+- Machine Learning & Data: `scikit-learn` | `Pandas` | `NumPy` | `Matplotlib` | `Jupyter Notebook`
 - Databases: `SQLite` | `MySQL`
-- Tools: `Git` | `GitHub` | `Linux`
 - Web & Backend: `Node.js` | `HTML` | `CSS` | `JavaScript` | `WordPress`
-- Interests: `Software & Web Development` | `Cybersecurity` | `Data Analytics`
+- Tools & Systems: `Git` | `GitHub` | `Linux`
+- Also familiar with: `C` | `C#` | `Fortran 90/95`
 
 ### 🗨️ About Me
 
@@ -29,6 +26,14 @@ I'm a 3rd-year Applied Computer Science student at Jagiellonian University in Kr
   Web application for sharing availability calendars.
   Built a REST API with Node.js and SQLite, enabling users to create calendars, join via token, and manage availability.
   (academic project)
+
+ ### 🎓 Coursework & Training
+- `Google Associate Cloud Engineer`
+- `Google Cybersecurity`
+
+ ### 🌱 Interests
+
+`Cybersecurity` | `Machine Learning` | `Data Analytics` | `Software Development`
 
 ---
 📫 Reach me at: wiktoria.pawelkiewicz@gmail.com
